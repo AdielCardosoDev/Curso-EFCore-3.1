@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOCUMENTOS\\INTRO\\curso\\cursoefcore.csproj": {}
+    "D:\\DOCUMENTOS\\INTRO\\Curso\\CursoEFCore.csproj": {}
   },
   "projects": {
-    "D:\\DOCUMENTOS\\INTRO\\curso\\cursoefcore.csproj": {
+    "D:\\DOCUMENTOS\\INTRO\\Curso\\CursoEFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOCUMENTOS\\INTRO\\curso\\cursoefcore.csproj",
-        "projectName": "cursoefcore",
-        "projectPath": "D:\\DOCUMENTOS\\INTRO\\curso\\cursoefcore.csproj",
+        "projectUniqueName": "D:\\DOCUMENTOS\\INTRO\\Curso\\CursoEFCore.csproj",
+        "projectName": "CursoEFCore",
+        "projectPath": "D:\\DOCUMENTOS\\INTRO\\Curso\\CursoEFCore.csproj",
         "packagesPath": "C:\\Users\\Adiel Cardoso\\.nuget\\packages\\",
-        "outputPath": "D:\\DOCUMENTOS\\INTRO\\curso\\obj\\",
+        "outputPath": "D:\\DOCUMENTOS\\INTRO\\Curso\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adiel Cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,18 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
             "microsoft.entityframeworkcore.sqlserver": {
               "target": "Package",
               "version": "[3.1.5, )"
