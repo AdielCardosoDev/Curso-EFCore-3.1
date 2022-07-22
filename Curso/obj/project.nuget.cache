@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UAcBlWxSn4ftRrkf/BeiaGVJirvhoTWgSWAOUuKFPly1OBpUT1fJ8KBwOw9LjQ1eFRFHe12dWuZeX9TAVH9p0Q==",
+  "dgSpecHash": "TwqsoyDpX7LUVjSryKUlj7LShQgAIdYnAwWNs4La2qbam/0FF0kTUyLFZgrzCXQdK/gg0DrOb1mPjz6TCgB4Mg==",
   "success": true,
-  "projectFilePath": "D:\\DOCUMENTOS\\INTRO\\Curso\\CursoEFCore.csproj",
+  "projectFilePath": "D:\\DOCUMENTOS\\INTRO\\curso\\CursoEFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adiel Cardoso\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Adiel Cardoso\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
